@@ -4,7 +4,7 @@
   "description": "This is just a demo",
   "main": "index.js",
   "scripts": {
-    "test": "No tests available",
+    "test": "echo 'No tests available'",
     "build": "cp ./index.js dist/."
   },
   "keywords": [],
