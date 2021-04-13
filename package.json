@@ -1,0 +1,21 @@
+{
+  "name": "@gelbehexe/npm-demo01",
+  "version": "1.0.0",
+  "description": "This is just a demo",
+  "main": "index.js",
+  "scripts": {
+    "build": "cp ./index.js dist/."
+  },
+  "keywords": [],
+  "author": "Deborah White <deborah.white1503@icloud.com>",
+  "license": "MIT",
+  "publishConfig": {
+    "access": "public"
+  },
+  "prettier": {
+    "printWidth": 100,
+    "semi": false,
+    "singleQuote": true,
+    "trailingComma": "es5"
+  }
+}
